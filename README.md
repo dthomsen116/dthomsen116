@@ -6,7 +6,7 @@ My name is David Thomsen and I am a rising senior at Champlain College. My most 
 ## Personal projects I am looking forward to include:
 - A server specifically to be used for Virtual Machines for Class/Personal use
 - A Discord Bot that can be multi-use for different servers. (mainly working on the music-bot commands, but got one working using OpenAI API key)
-- More AI research as it is something that greatly interests me. (Check out the attempt I made at making a Chatbot [here](https://github.com/dthomsen116/ChatBotAttempt)
+- More AI research as it is something that greatly interests me. (Check out the attempt I made at making a Chatbot [here](https://github.com/dthomsen116/ChatBotAttempt))
 - Who knows what else...?
 
 ## Collaboration👯: 
