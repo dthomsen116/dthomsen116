@@ -24,37 +24,32 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 
 ### Second Year
 
-CSI-160
-NET-215
-SYS-255
-SYS-265
-SEC-260
-
-### Third Year
-
-
-
-### Fourth Year
-
-
 <br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] Introduction to Python
-<br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] Advanced Python
 <br>- NET-215 - Network Protocols
 <br>- SYS-255 - Sysadmin and Net Services 1
 <br>- SYS-265 - Sysadmin and Net Services 2
 <br>- SYS-260 - Web and Applications Security
+
+### Third Year
+
 <br>- NET-330 - Network Design
 <br>- [[SYS-320](https://github.com/dthomsen116/SYS-320)] - Automation and Scripting
+<br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] Advanced Python
 <br>- SEC-335 - Ethical Hacking and Pen. Testing
 <br>- [[SEC-350](https://github.com/dthomsen116/SEC-350/wiki)] - Enterprise and Network and Security Controls<br><br>
 
+### Fourth Year
+
+<br>- CSI-140 Into to Programming (C++)
+<br>- SEC-345 Information Assurance 
+<br>- SEC-480 Advanced Topics in Cyber Security
+<br>- SYS-350 Enterprise Virtualization
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/david_thomsen116/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomsendavid/)
-
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](d.thomsen116@gmail.com)
-
-<br>Email: 
+<br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/david_thomsen116/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) 
+<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomsendavid/)
+<br> [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.thomsen116@gmail.com)
 
 
 # 💻 Tech Stack:
