@@ -1,21 +1,42 @@
 # 💫 About Me:
-🔭 I’m currently working on a few personal projects as well as reworking my old tech journals. <br><br>
-## Personal projects I am looking forward to include:
-<br>- A server specifically to be used for Virtual Machines for Class/Personal use
-<br>- A Discord Bot that can be multi-use for different servers. (mainly working on the music-bot commands, but got one working using OpenAI API key)
-<br>- More AI work as it is something that greatly interests me. 
+🔭 My name is David Thomsen and I am a rising senior at Champlain College. My most recent project has been reworking my github to be more put together, so aplogies if there are some slight bumps while I am working on it. 
 
-<br> <br>👯 I’m looking to collaborate on anything that would build on previous knowledge and expands into new territory. <br>🤝 I’m looking for help with researching possibilities for my thesis/capstone project. <br><br>🌱 The classes I have taken include:<br><br>
+<br><br>
+## Personal projects I am looking forward to include:
+- A server specifically to be used for Virtual Machines for Class/Personal use
+- A Discord Bot that can be multi-use for different servers. (mainly working on the music-bot commands, but got one working using OpenAI API key)
+- More AI research as it is something that greatly interests me. 
+- Who knows what else...?
+
+## Collaboration👯: 
+I’m looking to collaborate on anything that would build on previous knowledge and expands into new territory. 
+
+## Help🤝:
+I’m looking for help with researching possibilities for my thesis/capstone project. 
+
+## Courseload🌱:
 
 ### First Year:
-
-SYS-140
-NET-150
-SEC-250
 
 <br>- [[NET-150](https://github.com/dthomsen116/NET150/wiki)] - Network Fundamentals
 <br>- SYS-140 - Systems Fundamentals
 <br>- [[SEC-250](https://github.com/dthomsen116/SEC-250/tree/main)] - Computer and Network Security
+
+### Second Year
+
+CSI-160
+NET-215
+SYS-255
+SYS-265
+SEC-260
+
+### Third Year
+
+
+
+### Fourth Year
+
+
 <br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] Introduction to Python
 <br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] Advanced Python
 <br>- NET-215 - Network Protocols
@@ -30,7 +51,10 @@ SEC-250
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/david_thomsen116/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomsendavid/)
-<br>Email: d.thomsen116@gmail.com
+
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](d.thomsen116@gmail.com)
+
+<br>Email: 
 
 
 # 💻 Tech Stack:
