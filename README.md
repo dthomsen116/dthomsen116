@@ -25,7 +25,7 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 
 ### Second Year
 
-<br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] Introduction to Python
+<br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] - Introduction to Python
 <br>- NET-215 - Network Protocols
 <br>- SYS-255 - Sysadmin and Net Services 1
 <br>- SYS-265 - Sysadmin and Net Services 2
