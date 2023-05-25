@@ -15,7 +15,7 @@ SEC-250
 
 <br>- [[NET-150](https://github.com/dthomsen116/NET150/wiki)] - Network Fundamentals
 <br>- SYS-140 - Systems Fundamentals
-<br>- SEC-250 - Computer and Network Security
+<br>- [[SEC-250](https://github.com/dthomsen116/SEC-250/tree/main)] - Computer and Network Security
 <br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] Introduction to Python
 <br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] Advanced Python
 <br>- NET-215 - Network Protocols
