@@ -15,6 +15,11 @@ I’m looking to collaborate on anything that would build on previous knowledge 
 ## Help🤝:
 I’m looking for help with researching possibilities for my thesis/capstone project. 
 
+Ideas include:
+- AI implementation into another application or tool
+- Creating an AI personal assistant similar to Alexa or Cortana or Siri
+- More Ideas as I continiue brainstorming
+
 ## Courseload🌱:
 
 ### First Year:
