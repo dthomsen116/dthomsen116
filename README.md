@@ -1,6 +1,5 @@
 # 💫 About Me:
 My name is David Thomsen and I am a rising senior at Champlain College. My most recent project has been reworking my github to be more put together, so aplogies if there are some slight bumps while I am working on it. 
-
 <br>
 
 ## Personal projects I am looking forward to include:
