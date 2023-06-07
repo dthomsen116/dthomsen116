@@ -45,7 +45,7 @@ Ideas include:
 
 ### Fourth Year
 
-<br>- CSI-140 Into to Programming (C++)
+<br>- CSI-140 Intro to Programming (C++)
 <br>- SEC-345 Information Assurance 
 <br>- SEC-480 Advanced Topics in Cyber Security
 <br>- SYS-350 Enterprise Virtualization
