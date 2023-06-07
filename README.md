@@ -70,8 +70,8 @@ Ideas include:
 ---
 [![](https://visitcount.itsvg.in/api?id=dthomsen116&icon=5&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Feel free to donate to help out a working student!
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DavidThomsen116?country.x=US&locale.x=en_US) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Generated with GPRM ( https://gprm.itsvg.in ) -->
