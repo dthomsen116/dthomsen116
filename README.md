@@ -33,7 +33,7 @@ Ideas include:
 <br>- NET-215 - Network Protocols
 <br>- SYS-255 - Sysadmin and Net Services 1
 <br>- SYS-265 - Sysadmin and Net Services 2
-<br>- SEC-260 - Web and Applications Security
+<br>- [[SEC-260](https://github.com/dthomsen116/SEC-260)] - Web and Applications Security
 
 ### Third Year
 
