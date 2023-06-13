@@ -39,7 +39,7 @@ Ideas include:
 
 <br>- [[NET-330](https://github.com/dthomsen116/NET-330)] - Network Design
 <br>- [[SYS-320](https://github.com/dthomsen116/SYS-320)] - Automation and Scripting
-<br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] Advanced Python
+<br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] - Advanced Python
 <br>- [[SEC-335](https://github.com/dthomsen116/SEC-335/wiki)] - Ethical Hacking and Pen. Testing
 <br>- [[SEC-350](https://github.com/dthomsen116/SEC-350/wiki)] - Enterprise and Network and Security Controls<br><br>
 
