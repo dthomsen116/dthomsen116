@@ -55,6 +55,7 @@ Ideas include:
 <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/david_thomsen116/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) 
 <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomsendavid/)
 <br> [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.thomsen116@gmail.com)
+<br> [![](https://visitcount.itsvg.in/api?id=dthomsen116&label=Interactions&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
@@ -65,6 +66,6 @@ Ideas include:
 ## 💰 Feel free to donate to help out a working student!
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DavidThomsen116?country.x=US&locale.x=en_US) 
 
-[![](https://visitcount.itsvg.in/api?id=dthomsen116&label=Interactions&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
   
 <!-- Generated with GPRM ( https://gprm.itsvg.in ) -->
