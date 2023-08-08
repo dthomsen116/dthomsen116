@@ -4,7 +4,7 @@ My name is David Thomsen and I am a rising senior at Champlain College. My most 
 
 ## Personal projects I am looking forward to include:
 - A server specifically to be used for Virtual Machines for Class/Personal use
-- A Discord Bot that can be multi-use for different servers. [MilkBot](https://github.com/dthomsen116/MilkBot)
+- A Discord Bot that can be multi-use for different servers ([MilkBot](https://github.com/dthomsen116/MilkBot)).
 - More AI research as it is something that greatly interests me. (Check out the attempt I made at making a Chatbot a while back [here](https://github.com/dthomsen116/ChatBotAttempt))
 - A [Virtual Assistant](https://github.com/dthomsen116/Virt-Assistant) to be used for local common tasks and exploring the possibilities of this new assistant 🤖. 
 - Who knows what else...?
