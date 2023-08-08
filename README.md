@@ -51,6 +51,10 @@ Ideas include:
 <br>- SEC-480 Advanced Topics in Cyber Security
 <br>- SYS-350 Enterprise Virtualization
 
+### Capstone/Thesis Project
+[[]()]
+
+
 
 ## 🌐 Socials:
 <br> [![**Instagram**](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/david_thomsen116/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) 
