@@ -52,7 +52,7 @@ Ideas include:
 <br>- SYS-350 Enterprise Virtualization
 
 ### Capstone/Thesis Project
-[[]()]
+[[...]()]
 
 
 
