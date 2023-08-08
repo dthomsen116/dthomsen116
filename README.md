@@ -32,7 +32,7 @@ Ideas include:
 
 <br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] - Introduction to Python
 <br>- NET-215 - Network Protocols
-<br>- SYS-255 - Sysadmin and Net Services 1
+<br>- [[SYS-255](https://github.com/dthomsen116/SYS-255)] - Sysadmin and Net Services 1
 <br>- SYS-265 - Sysadmin and Net Services 2
 <br>- [[SEC-260](https://github.com/dthomsen116/SEC-260)] - Web and Applications Security
 
