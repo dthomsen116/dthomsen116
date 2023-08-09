@@ -23,7 +23,7 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 <br>- SYS-140 - Systems Fundamentals
 <br>- [[SEC-250](https://github.com/dthomsen116/SEC-250/tree/main)] - Computer and Network Security
 
-### Second Year
+### Second Year:
 
 <br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] - Introduction to Python
 <br>- NET-215 - Network Protocols
@@ -31,7 +31,7 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 <br>- [[SYS-265](https://github.com/dthomsen116/SYS-265)] - Sysadmin and Net Services 2
 <br>- [[SEC-260](https://github.com/dthomsen116/SEC-260)] - Web and Applications Security
 
-### Third Year
+### Third Year:
 
 <br>- [[NET-330](https://github.com/dthomsen116/NET-330)] - Network Design
 <br>- [[SYS-320](https://github.com/dthomsen116/SYS-320)] - Automation and Scripting
@@ -39,14 +39,14 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 <br>- [[SEC-335](https://github.com/dthomsen116/SEC-335/wiki)] - Ethical Hacking and Pen. Testing
 <br>- [[SEC-350](https://github.com/dthomsen116/SEC-350/wiki)] - Enterprise and Network and Security Controls<br><br>
 
-### Fourth Year
+### Fourth Year:
 
 <br>- CSI-140 Intro to Programming (C++)
 <br>- SEC-345 Information Assurance 
 <br>- SEC-480 Advanced Topics in Cyber Security
 <br>- SYS-350 Enterprise Virtualization
 
-### Capstone/Thesis Project
+### Capstone/Thesis Project:
 [[...]()]
 
 
