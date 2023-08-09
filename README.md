@@ -41,10 +41,10 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 
 ### Fourth Year:
 
-<br>- CSI-140 Intro to Programming (C++)
-<br>- SEC-345 Information Assurance 
-<br>- SEC-480 Advanced Topics in Cyber Security
-<br>- SYS-350 Enterprise Virtualization
+<br>- [[CSI-140](https://github.com/dthomsen116/CSI-140)] Intro to Programming (C++)
+<br>- [[SEC-345](https://github.com/dthomsen116/SEC-345)] Information Assurance 
+<br>- [[SEC-480](https://github.com/dthomsen116/SEC-480)] Advanced Topics in Cyber Security
+<br>- [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
 
 ### Capstone/Thesis Project:
 [[...]()]
