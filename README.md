@@ -47,7 +47,7 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 <br>- [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
 
 ### Capstone/Thesis Project:
-[[...]()]
+[[CAP23-24](https://github.com/dthomsen116/Capstone23-24)]
 
 
 
