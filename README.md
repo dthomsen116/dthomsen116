@@ -51,7 +51,7 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 
 
 ## 🌐 Socials:
-### [My Links:](https://linktr.ee/dthomsen)
+### [My Links](https://linktr.ee/dthomsen)
 
 
 # 💻 Tech Stack:
