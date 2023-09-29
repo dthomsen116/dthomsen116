@@ -9,13 +9,13 @@ My name is David Thomsen and I am a rising senior at Champlain College. My most 
 - A [Virtual Assistant](https://github.com/dthomsen116/Virt-Assistant) to be used for local common tasks and exploring the possibilities of this new assistant 🤖. 
 - Who knows what else...?
 
-## Collaboration👯: 
+# Collaboration👯: 
 I’m looking to collaborate on anything that would build on previous knowledge and expands into new territory. 
 
-## Help🤝:
+# Help🤝:
 I’m looking for help with researching possibilities for my thesis/capstone project. 
 
-## Courseload🌱:
+# Courseload🌱:
 
 ### First Year:
 
@@ -50,7 +50,7 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 <br>- [[CAP23-24](https://github.com/dthomsen116/Capstone23-24)]
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 ### [My Links](https://linktr.ee/dthomsen)
 
 
@@ -59,7 +59,7 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 
 
 
-## 💰 Feel free to donate to help out a working student!
+# 💰 Feel free to donate to help out a working student!
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DavidThomsen116?country.x=US&locale.x=en_US) 
 
 
