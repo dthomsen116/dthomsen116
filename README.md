@@ -46,8 +46,10 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 <br>- [[SEC-480](https://github.com/dthomsen116/SEC-480)] Advanced Topics in Cyber Security
 <br>- [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
 
-### Capstone/Thesis Project:
+### Capstone Project 1: Ditigal Accessibility Frameworking and Databasing (Depreciated)
 <br>- [[CAP23-24](https://github.com/dthomsen116/Capstone23-24)]
+### Capstone/Thesis Project 2: Dev-Ops Automating Virtual Accessibility (Current)
+<br>- [[CAP23-24](https://github.com/dthomsen116/AccessibilityAutomation)]
 
 
 # 🌐 Socials:
