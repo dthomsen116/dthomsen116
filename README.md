@@ -47,9 +47,9 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 <br>- [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
 
 ### Capstone Project 1: 
-<br>- [[Ditigal Accessibility Frameworking and Databasing ](https://github.com/dthomsen116/Capstone23-24)] (Depreciated)
+<br>- [[Ditigal Accessibility Frameworking and Databasing](https://github.com/dthomsen116/Capstone23-24)] (Depreciated)
 ### Capstone/Thesis Project 2: 
-<br>- [[Dev-Ops Automating Virtual Accessibility ](https://github.com/dthomsen116/AccessibilityAutomation)] (Current)
+<br>- [[Dev-Ops and Automation of Digital Accessibility](https://github.com/dthomsen116/AccessibilityAutomation)] (Current)
 
 
 # 🌐 Socials:
