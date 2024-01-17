@@ -39,12 +39,19 @@ I’m looking for help with researching possibilities for my thesis/capstone pro
 <br>- [[SEC-335](https://github.com/dthomsen116/SEC-335/wiki)] - Ethical Hacking and Pen. Testing
 <br>- [[SEC-350](https://github.com/dthomsen116/SEC-350/wiki)] - Enterprise and Network and Security Controls<br><br>
 
-### Fourth Year:
+### Fourth Year (SP23):
 
 <br>- [[CSI-140](https://github.com/dthomsen116/CSI-140)] Intro to Programming (C++)
 <br>- [[SEC-345](https://github.com/dthomsen116/SEC-345)] Information Assurance 
 <br>- [[SEC-480](https://github.com/dthomsen116/SEC-480)] Advanced Topics in Cyber Security
 <br>- [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
+
+### Fourth Year (FW24):
+
+<br>- [[CSI-300](https://github.com/dthomsen116/CSI-300)] Database Management Systems
+<br>- [[FOR-100](https://github.com/dthomsen116/FOR-100)] Introduction to Cybercrime & Digital Forensics 
+<br>- [[SYS-480](https://github.com/dthomsen116/SYS-480)] Advanced Topics in Networking / Dev-Ops
+<br>- [[SYS-360](https://github.com/dthomsen116/SYS-360)] Cloud Administration & Deployment
 
 ### Capstone Project 1: 
 <br>- [[Ditigal Accessibility Frameworking and Databasing](https://github.com/dthomsen116/Capstone23-24)] (Depreciated)
