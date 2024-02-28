@@ -2,7 +2,6 @@
 
 # Welcome!
 
-
 ![](https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif)
 
 </div>
@@ -12,6 +11,7 @@
   # 💫 About Me:
 
 </div>
+
 My name is David Thomsen and I am a rising senior at Champlain College. My most recent project has been reworking my github to be more put together, so aplogies if there are some slight bumps while I am working on it. 
 <br>
 
@@ -21,68 +21,87 @@ My name is David Thomsen and I am a rising senior at Champlain College. My most 
 - My Current Capstone focused around automation and accessibility found [HERE](https://github.com/dthomsen116/AccessibilityAutomation)
 - Who knows what else...?
 
-# Collaboration👯: 
+
+<div align="center">
+
+  # Collaboration👯: 
+
+</div>
+
 I’m looking to collaborate on anything that would build on previous knowledge and expands into new territory. I love working on new projects and working in group environments!
 
 
-# Courseload🌱:
+<div align="center">
 
-# ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+  # Courseload🌱:
 
-### First Year:
+  # ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+  
+</div>
 
-<br>- [[NET-150](https://github.com/dthomsen116/NET150/wiki)] - Network Fundamentals
-<br>- SYS-140 - Systems Fundamentals
-<br>- [[SEC-250](https://github.com/dthomsen116/SEC-250/tree/main)] - Computer and Network Security
+<div>
+ 
+  ### First Year:
+  
+  <br>- [[NET-150](https://github.com/dthomsen116/NET150/wiki)] - Network Fundamentals
+  <br>- SYS-140 - Systems Fundamentals
+  <br>- [[SEC-250](https://github.com/dthomsen116/SEC-250/tree/main)] - Computer and Network Security
+  
+  ### Second Year:
+  
+  <br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] - Introduction to Python
+  <br>- NET-215 - Network Protocols
+  <br>- [[SYS-255](https://github.com/dthomsen116/SYS-255)] - Sysadmin and Net Services 1
+  <br>- [[SYS-265](https://github.com/dthomsen116/SYS-265)] - Sysadmin and Net Services 2
+  <br>- [[SEC-260](https://github.com/dthomsen116/SEC-260)] - Web and Applications Security
+  
+  ### Third Year:
+  
+  <br>- [[NET-330](https://github.com/dthomsen116/NET-330)] - Network Design
+  <br>- [[SYS-320](https://github.com/dthomsen116/SYS-320)] - Automation and Scripting
+  <br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] - Advanced Python
+  <br>- [[SEC-335](https://github.com/dthomsen116/SEC-335/wiki)] - Ethical Hacking and Pen. Testing
+  <br>- [[SEC-350](https://github.com/dthomsen116/SEC-350/wiki)] - Enterprise and Network and Security Controls<br><br>
+  
+  ### Fourth Year (SP23):
+  
+  <br>- [[CSI-140](https://github.com/dthomsen116/CSI-140)] Intro to Programming (C++)
+  <br>- [[SEC-345](https://github.com/dthomsen116/SEC-345)] Information Assurance 
+  <br>- [[SEC-480](https://github.com/dthomsen116/SEC-480)] Advanced Topics in Cyber Security
+  <br>- [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
+  
+  ### Fourth Year (FW24):
+  
+  <br>- [[CSI-300](https://github.com/dthomsen116/CSI-300)] Database Management Systems
+  <br>- [[FOR-100](https://github.com/dthomsen116/FOR-100)] Introduction to Cybercrime & Digital Forensics 
+  <br>- [[SYS-480](https://github.com/dthomsen116/SYS-480)] Advanced Topics in Networking / Dev-Ops
+  <br>- [[SYS-360](https://github.com/dthomsen116/SYS-360)] Cloud Administration & Deployment
+  
+  ### Capstone Project 1: 
+  <br>- [[Ditigal Accessibility Frameworking and Databasing](https://github.com/dthomsen116/Capstone23-24)] (Depreciated)
+  ### Capstone/Thesis Project 2: 
+  <br>- [[Dev-Ops and Automation of Digital Accessibility](https://github.com/dthomsen116/AccessibilityAutomation)] (Current)
 
-### Second Year:
+</div>
+<br>
 
-<br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] - Introduction to Python
-<br>- NET-215 - Network Protocols
-<br>- [[SYS-255](https://github.com/dthomsen116/SYS-255)] - Sysadmin and Net Services 1
-<br>- [[SYS-265](https://github.com/dthomsen116/SYS-265)] - Sysadmin and Net Services 2
-<br>- [[SEC-260](https://github.com/dthomsen116/SEC-260)] - Web and Applications Security
+<div align="center">
 
-### Third Year:
-
-<br>- [[NET-330](https://github.com/dthomsen116/NET-330)] - Network Design
-<br>- [[SYS-320](https://github.com/dthomsen116/SYS-320)] - Automation and Scripting
-<br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] - Advanced Python
-<br>- [[SEC-335](https://github.com/dthomsen116/SEC-335/wiki)] - Ethical Hacking and Pen. Testing
-<br>- [[SEC-350](https://github.com/dthomsen116/SEC-350/wiki)] - Enterprise and Network and Security Controls<br><br>
-
-### Fourth Year (SP23):
-
-<br>- [[CSI-140](https://github.com/dthomsen116/CSI-140)] Intro to Programming (C++)
-<br>- [[SEC-345](https://github.com/dthomsen116/SEC-345)] Information Assurance 
-<br>- [[SEC-480](https://github.com/dthomsen116/SEC-480)] Advanced Topics in Cyber Security
-<br>- [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
-
-### Fourth Year (FW24):
-
-<br>- [[CSI-300](https://github.com/dthomsen116/CSI-300)] Database Management Systems
-<br>- [[FOR-100](https://github.com/dthomsen116/FOR-100)] Introduction to Cybercrime & Digital Forensics 
-<br>- [[SYS-480](https://github.com/dthomsen116/SYS-480)] Advanced Topics in Networking / Dev-Ops
-<br>- [[SYS-360](https://github.com/dthomsen116/SYS-360)] Cloud Administration & Deployment
-
-### Capstone Project 1: 
-<br>- [[Ditigal Accessibility Frameworking and Databasing](https://github.com/dthomsen116/Capstone23-24)] (Depreciated)
-### Capstone/Thesis Project 2: 
-<br>- [[Dev-Ops and Automation of Digital Accessibility](https://github.com/dthomsen116/AccessibilityAutomation)] (Current)
+  # 🌐 Socials: [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dthomsen)
+  
+</div>
 
 
-# 🌐 Socials:
-### [My Links](https://linktr.ee/dthomsen)
+<div align="center">
+  
+  # 💻 Tech Stack:
 
-
-# 💻 Tech Stack:
-
+</div>
 
 ## Coding 
 
 ![PS](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -91,7 +110,7 @@ I’m looking to collaborate on anything that would build on previous knowledge 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+
 
 
 ## Applications
@@ -100,7 +119,8 @@ I’m looking to collaborate on anything that would build on previous knowledge 
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## OS
 
