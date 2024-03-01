@@ -91,7 +91,6 @@ I’m looking to collaborate on anything that would build on previous knowledge 
   
 </div>
 
-
 <div align="center">
   
   # 💻 Tech Stack:
