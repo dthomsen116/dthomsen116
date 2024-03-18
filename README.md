@@ -12,7 +12,7 @@
 
 </div>
 
-My name is David Thomsen and I am a rising senior at Champlain College. My most recent project has been reworking my github to be more put together, so aplogies if there are some slight bumps while I am working on it. 
+My name is David Thomsen and I am a rising senior at Champlain College. My most recent project is my Capstone Project found [HERE](https://github.com/dthomsen116/AccessibilityAutomation). I am working towards my Degree in Computer Networking and Cybersecurity. I enjoy working on projects as well as learning new things in order to add to my repetoire.  
 <br>
 
 ## Personal projects I am looking forward to include:
