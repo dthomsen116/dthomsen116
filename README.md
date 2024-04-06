@@ -19,7 +19,7 @@ My name is David Thomsen and I am a rising senior at Champlain College. My most 
 - Keeping a well documented set of tech journals that can be used to look back at for future reference found [HERE](https://github.com/dthomsen116/dthomsen116/edit/main/README.md#courseload)
 - Setting up a Home Environment and useful applications through a personal ProxMox found [HERE](https://github.com/dthomsen116/Capstone23-24/wiki/Design-Project-1)
 - My Current Capstone focused around automation and accessibility found [HERE](https://github.com/dthomsen116/AccessibilityAutomation)
-- Exploring and Developing a Custom NixOS Environment to be reproduced across mutliple systems found [HERE]()
+- Exploring and Developing a Custom NixOS Environment to be reproduced across mutliple systems found [HERE](https://github.com/dthomsen116/NixOs)
 - Who knows what else...?
 
 
