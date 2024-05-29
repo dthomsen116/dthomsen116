@@ -1,12 +1,10 @@
 <div align="center">
 
 # Welcome!
-
-![](https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif)
+<img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" alt="Welcome GIF" width="100">
 
 </div>
 
-<div align="center">
 
   # 💫 About Me:
 
