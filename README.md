@@ -10,10 +10,10 @@
 
 </div>
 
-My name is David Thomsen and I am a rising senior at Champlain College. My most recent project is my Capstone Project found [HERE](https://github.com/dthomsen116/AccessibilityAutomation). I am working towards my Degree in Computer Networking and Cybersecurity. I enjoy working on projects as well as learning new things in order to add to my repetoire.  
+My name is David Thomsen and I am a recent Summa Cum Laude graduate from Champlain College and I have reciceved my Bachelor's Degree in Computer Networking and Cybersecurity. My most recent project on this GitHub is my Capstone Project found [HERE](https://github.com/dthomsen116/AccessibilityAutomation). I enjoy working on projects as well as learning new things in order to add to my repetoire.  
 <br>
 
-## Personal projects I am looking forward to include:
+## Personal projects include:
 - Keeping a well documented set of tech journals that can be used to look back at for future reference found [HERE](https://github.com/dthomsen116/dthomsen116/edit/main/README.md#courseload)
 - Setting up a Home Environment and useful applications through a personal ProxMox found [HERE](https://github.com/dthomsen116/Capstone23-24/wiki/Design-Project-1)
 - My Current Capstone focused around automation and accessibility found [HERE](https://github.com/dthomsen116/AccessibilityAutomation)
