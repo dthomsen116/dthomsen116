@@ -43,39 +43,39 @@ I’m looking to collaborate on anything that would build on previous knowledge 
  
   ### First Year:
   
-  <br>- [[NET-150](https://github.com/dthomsen116/NET150/wiki)] - Network Fundamentals
-  <br>- SYS-140 - Systems Fundamentals
-  <br>- [[SEC-250](https://github.com/dthomsen116/SEC-250/tree/main)] - Computer and Network Security
+  - [[NET-150](https://github.com/dthomsen116/NET150/wiki)] - Network Fundamentals
+  - SYS-140 - Systems Fundamentals
+  - [[SEC-250](https://github.com/dthomsen116/SEC-250/tree/main)] - Computer and Network Security
   
   ### Second Year:
   
-  <br>- [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] - Introduction to Python
-  <br>- NET-215 - Network Protocols
-  <br>- [[SYS-255](https://github.com/dthomsen116/SYS-255)] - Sysadmin and Net Services 1
-  <br>- [[SYS-265](https://github.com/dthomsen116/SYS-265)] - Sysadmin and Net Services 2
-  <br>- [[SEC-260](https://github.com/dthomsen116/SEC-260)] - Web and Applications Security
+  - [[CSI-160](https://github.com/dthomsen116/CSI-160/tree/main)] - Introduction to Python
+  - NET-215 - Network Protocols
+  - [[SYS-255](https://github.com/dthomsen116/SYS-255)] - Sysadmin and Net Services 1
+  - [[SYS-265](https://github.com/dthomsen116/SYS-265)] - Sysadmin and Net Services 2
+  - [[SEC-260](https://github.com/dthomsen116/SEC-260)] - Web and Applications Security
   
   ### Third Year:
   
-  <br>- [[NET-330](https://github.com/dthomsen116/NET-330)] - Network Design
-  <br>- [[SYS-320](https://github.com/dthomsen116/SYS-320)] - Automation and Scripting
-  <br>- [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] - Advanced Python
-  <br>- [[SEC-335](https://github.com/dthomsen116/SEC-335/wiki)] - Ethical Hacking and Pen. Testing
-  <br>- [[SEC-350](https://github.com/dthomsen116/SEC-350/wiki)] - Enterprise and Network and Security Controls<br><br>
+  - [[NET-330](https://github.com/dthomsen116/NET-330)] - Network Design
+  - [[SYS-320](https://github.com/dthomsen116/SYS-320)] - Automation and Scripting
+  - [[CSI-260](https://github.com/dthomsen116/CSI-260/tree/main)] - Advanced Python
+  - [[SEC-335](https://github.com/dthomsen116/SEC-335/wiki)] - Ethical Hacking and Pen. Testing
+  - [[SEC-350](https://github.com/dthomsen116/SEC-350/wiki)] - Enterprise and Network and Security Controls<br><br>
   
   ### Fourth Year (SP23):
   
-  <br>- [[CSI-140](https://github.com/dthomsen116/CSI-140)] Intro to Programming (C++)
-  <br>- [[SEC-345](https://github.com/dthomsen116/SEC-345)] Information Assurance 
-  <br>- [[SEC-480](https://github.com/dthomsen116/SEC-480)] Advanced Topics in Cyber Security
-  <br>- [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
+  - [[CSI-140](https://github.com/dthomsen116/CSI-140)] Intro to Programming (C++)
+  - [[SEC-345](https://github.com/dthomsen116/SEC-345)] Information Assurance 
+  - [[SEC-480](https://github.com/dthomsen116/SEC-480)] Advanced Topics in Cyber Security
+  - [[SYS-350](https://github.com/dthomsen116/SYS-350)] Enterprise Virtualization
   
   ### Fourth Year (FW24):
   
-  <br>- [[CSI-300](https://github.com/dthomsen116/CSI-300)] Database Management Systems
-  <br>- [[FOR-100](https://github.com/dthomsen116/FOR-100)] Introduction to Cybercrime & Digital Forensics 
-  <br>- [[SYS-480](https://github.com/dthomsen116/SYS-480)] Advanced Topics in Networking / Dev-Ops
-  <br>- [[SYS-360](https://github.com/dthomsen116/SYS-360)] Cloud Administration & Deployment
+  - [[CSI-300](https://github.com/dthomsen116/CSI-300)] Database Management Systems
+  - [[FOR-100](https://github.com/dthomsen116/FOR-100)] Introduction to Cybercrime & Digital Forensics 
+  - [[SYS-480](https://github.com/dthomsen116/SYS-480)] Advanced Topics in Networking / Dev-Ops
+  - [[SYS-360](https://github.com/dthomsen116/SYS-360)] Cloud Administration & Deployment
   
   ### Capstone Projects:
   - [[Ditigal Accessibility Frameworking and Databasing](https://github.com/dthomsen116/Capstone23-24)] (Depreciated) 
