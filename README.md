@@ -10,7 +10,8 @@
 
 </div>
 
-My name is David Thomsen and I am a recent Summa Cum Laude graduate from Champlain College and I have reciceved my Bachelor's Degree in Computer Networking and Cybersecurity. My most recent project on this GitHub is my Capstone Project found [HERE](https://github.com/dthomsen116/AccessibilityAutomation). I enjoy working on projects as well as learning new things in order to add to my repetoire.  
+My name is David and this is my repository for all of my course work throughout my Undergraduate as well as my Graduate degrees. This includes my Capstone Project as well as any other side projects I have worked on previously. This repository is being updated actively and is current.  
+
 <br>
 
 ## Personal projects include:
@@ -76,11 +77,16 @@ I’m looking to collaborate on anything that would build on previous knowledge 
   <br>- [[SYS-480](https://github.com/dthomsen116/SYS-480)] Advanced Topics in Networking / Dev-Ops
   <br>- [[SYS-360](https://github.com/dthomsen116/SYS-360)] Cloud Administration & Deployment
   
-  ### Capstone Project 1: 
-  <br>- [[Ditigal Accessibility Frameworking and Databasing](https://github.com/dthomsen116/Capstone23-24)] (Depreciated)
-  ### Capstone/Thesis Project 2: 
-  <br>- [[Dev-Ops and Automation of Digital Accessibility](https://github.com/dthomsen116/AccessibilityAutomation)] (Current)
+  ### Capstone Projects:
+  - [[Ditigal Accessibility Frameworking and Databasing](https://github.com/dthomsen116/Capstone23-24)] (Depreciated) 
+  - [[Dev-Ops and Automation of Digital Accessibility](https://github.com/dthomsen116/AccessibilityAutomation)] (Final)
 
+  ---
+
+  ### [Master of Science in Information Technology](https://online.merrimack.edu/masters-information-technology/):
+  
+  <br>- [[CSC6003OM](https://github.com/dthomsen116/CSC6003OM)] - Foundations of Programming (Python)
+  
 </div>
 <br>
 <div align="center">
