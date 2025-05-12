@@ -85,7 +85,7 @@ I’m looking to collaborate on anything that would build on previous knowledge 
 
   ### [Master of Science in Information Technology](https://online.merrimack.edu/masters-information-technology/):
   
-  <br>- [[CSC6003OM](https://github.com/dthomsen116/CSC6003OM)] - Foundations of Programming (Python)
+  - [[CSC6003OM](https://github.com/dthomsen116/CSC6003OM)] - Foundations of Programming (Python)
   
 </div>
 <br>
