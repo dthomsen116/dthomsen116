@@ -110,6 +110,7 @@ I’m looking to collaborate on anything that would build on previous knowledge 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Manjaro/manjaro2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg">
 
   ## Languages:
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg">
@@ -117,6 +118,8 @@ I’m looking to collaborate on anything that would build on previous knowledge 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+
 </div>
 
 <!---
